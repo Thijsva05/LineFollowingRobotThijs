@@ -8,8 +8,8 @@
 |         4|Batterij houder|ABS 18650 Power Bank Cases 2X 18650 Battery Holder Storage Box         |nieuw      |€0,93         |1     |€0,93    |
 |         5|DC motor       |GA12-N20 DC 6V Micro Metal Gear Motor Gear Wheel Gear Motor 600 RPM    |nieuw      |€1,79         |2     |€3,58    |
 |         6|Batterij lader |2 Slot 3.7V 18650 Charger Lii-PD4 USB Independent Charging             |nieuw      |€1,99         |1     |€1,99    |
-|         7|Microcontroller|Arduino Nano ESP32 (+bluetooth & WiFi)                                 |nieuw      |€22,95        |1     |€22,95   |
+|         7|Microcontroller|Velleman Arduino Leonardo Atmega32U4                              |recup      |€0,00        |1     |€0,00   |
 |         8|Batterij       |EVE 18650 Li-ion Batterij - 3100mAh - 10A - INR18650-33V               |nieuw      |€3,50         |2     |€7,00    |
-|         9|U-regelaar 5V  |78L05 5V Spanningsregelaar - TO92                                      |nieuw      |€0,35         |1     |€0,35    |
+|         9|Bluetooth module |HC-05 Bluetooth module                                    |nieuw      |€2,49        |1     |€2,49    |
                                                                                                                               |TOTAAL|€38,73   |
                                                                                                                                 
