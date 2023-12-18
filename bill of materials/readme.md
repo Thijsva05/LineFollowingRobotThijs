@@ -11,6 +11,6 @@
 |         7|Microcontroller|Velleman Arduino Leonardo Atmega32U4                                   |recup      |€0,00         |1     |€0,00    |
 |         8|Batterij       |EVE 18650 Li-ion Batterij - 3100mAh - 10A - INR18650-33V               |nieuw      |€3,50         |2     |€7,00    |
 |         9|Bluetooth      |HC-05 Bluetooth module                                                 |nieuw      |€2,49         |1     |€2,49    |
-|        10|Oplader      |Battery Charger                                                          |nieuw      |€1,99         |1     |€1,99    |
+|        10|Oplader        |Battery Charger                                                        |nieuw      |€1,99         |1     |€1,99    |
                                                                                                                               |TOTAAL|€19,91   |
                                                                                                                                 
