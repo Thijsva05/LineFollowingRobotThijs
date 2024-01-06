@@ -21,7 +21,7 @@ wireless communication: HC-05 Bluetooth
 
 distance sensor - motors: 90 mm
 
-weight:
+weight: 264 g
 
 speed: 0,311 m/s
 
