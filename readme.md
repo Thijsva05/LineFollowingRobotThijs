@@ -1,7 +1,8 @@
 # LineFollower
 
 
-!images/PXL_20240106_170523985.PORTRAIT.jpg
+![PXL_20240106_170523985 PORTRAIT](https://github.com/Thijsva05/LineFollowingRobotThijs/assets/146442788/6c3b1f10-1cb4-4375-aafe-3b91d78da70f)
+
 
   
 ## specifications
