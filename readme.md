@@ -1,7 +1,7 @@
 # LineFollower
 
 
-![A description of my image](images/empty.png)
+!images/PXL_20240106_170523985.PORTRAIT.jpg
 
   
 ## specifications
